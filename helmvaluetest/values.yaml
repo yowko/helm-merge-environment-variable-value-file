@@ -11,7 +11,7 @@ image:
   tag: ""
 
 envs:
-- ENV: "default"
+  ENV: "default"
 
 imagePullSecrets: []
 nameOverride: ""
